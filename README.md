@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💻 𝛈𝗹𝙯.𝒆𝛘𝒆
 
-<!--
-**NLZ-EXE/NLZ-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌱 Junior Developer** specializing in backend, security, frontend
 
-Here are some ideas to get you started:
+## 📈 GitHub Analytics
+![𝛈𝗹𝙯.𝒆𝛘𝒆's GitHub stats](https://github-readme-stats.vercel.app/api?username=𝛈𝗹𝙯.𝒆𝛘𝒆&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technology Stack
+
+### Languages
+![csharp](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
+![python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![nodejs](https://img.shields.io/badge/-nodejs-black?style=flat-square&logo=nodejs)
+
+### Frameworks & Tools
+
+
+## 🎯 Current Focus
+- 🔭 Five-Shield - High level Anticheat
+-  Zuidside Roleplay - Currently in Development
+-  Own Hosting - SOON
+- 🌱 Always learning and growing
+- ⚡ I like coding for fun just to learn and find new things out.
+
+## 📫 Get in Touch
+💬 Chat on Discord: nlz.exe.
